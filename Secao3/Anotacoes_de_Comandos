@@ -1,0 +1,3 @@
+para ativa o ambiente virtual: .\venv\Scripts\activate
+
+para cria um ambiente virtual usa o comando : python -m venv venv
