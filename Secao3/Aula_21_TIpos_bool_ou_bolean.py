@@ -5,3 +5,6 @@
 # Dentre eles o ==, que é um operador lógico que questiona se um valor é igual a outro.
 print(10==10) # True => Sim ( Verdadeiro)
 print(11 ==10) # False => Não ( Falso )
+#vai mostra qual é a classificação 
+print(type(11==10))
+print(type(11==10))
